@@ -3,13 +3,13 @@
 ## About Me:
 I am a graduate from Texas A&M, passionate about exploring and building in the world of coding.
 
-## What I'm Up To
+## 🚀 What I'm Up To
 <ul>
     <li>Learning Full-Stack with <a href="https://www.theodinproject.com/" rel="noopener noreferrer" target="_blank">The Odin Project</a></li>
     <li>Building React and Node applications</li>
 </ul>
 
-### Connect with me:
+### 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/theunis-coetzee19/" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## 💻 Tech Stack
