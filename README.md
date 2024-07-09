@@ -5,12 +5,12 @@ I am a graduate from Texas A&M, passionate about exploring and building in the w
 
 ## What I'm Up To
 <ul>
-    <li>Learning Full-Stack with <a href="https://www.theodinproject.com/" rel="noopener noreferrer">The Odin Project</a></li>
+    <li>Learning Full-Stack with <a href="https://www.theodinproject.com/" rel="noopener noreferrer" target="_blank">The Odin Project</a></li>
     <li>Building React and Node applications</li>
 </ul>
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/theunis-coetzee19/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/theunis-coetzee19/" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## 💻 Tech Stack
 **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
